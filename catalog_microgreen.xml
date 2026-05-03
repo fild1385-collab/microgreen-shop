@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-03 21:38:25">
+<yml_catalog date="2026-05-03 21:46:30">
   <shop>
     <name>Микрозелень</name>
     <company>Микрозелень</company>
@@ -19,7 +19,7 @@
     <offers>
       <offer id="1" available="true">
         <url>https://local.shop/product/1</url>
-        <priceuah>68.00</priceuah>
+        <priceuah>55.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
         <picture>https://i.postimg.cc/SR75dRR1/Amarant-WEBP.webp?t=20260503&amp;t=20260503</picture>
