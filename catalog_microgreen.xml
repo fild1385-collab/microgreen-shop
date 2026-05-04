@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-04 13:34:58">
+<yml_catalog date="2026-05-04 19:36:59">
   <shop>
     <name>Микрозелень</name>
     <company>Микрозелень</company>
@@ -19,7 +19,7 @@
     <offers>
       <offer id="1" available="true">
         <url>https://local.shop/product/1</url>
-        <priceuah>55.00</priceuah>
+        <priceuah>100.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>100</categoryId>
         <picture>https://i.postimg.cc/SR75dRR1/Amarant-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260504</picture>
@@ -29,7 +29,7 @@
       </offer>
       <offer id="2" available="true">
         <url>https://local.shop/product/2</url>
-        <priceuah>50.00</priceuah>
+        <priceuah>150.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>100</categoryId>
         <picture>🌿</picture>
@@ -39,7 +39,7 @@
       </offer>
       <offer id="3" available="true">
         <url>https://local.shop/product/3</url>
-        <priceuah>60.00</priceuah>
+        <priceuah>200.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>100</categoryId>
         <picture>https://i.postimg.cc/ncqc8GjW/Brokkoli-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260504</picture>
@@ -49,7 +49,7 @@
       </offer>
       <offer id="4" available="true">
         <url>https://local.shop/product/4</url>
-        <priceuah>45.00</priceuah>
+        <priceuah>250.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>100</categoryId>
         <picture>https://i.postimg.cc/TwpVxwX4/Burak-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260504</picture>
