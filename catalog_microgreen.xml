@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-04 19:36:59">
+<yml_catalog date="2026-05-04 19:38:07">
   <shop>
     <name>Микрозелень</name>
     <company>Микрозелень</company>
@@ -11,10 +11,7 @@
     <categories>
       <category id="100">Без категории</category>
       <category id="1001473">Микрозелень</category>
-      <category id="101">Товары и услуги</category>
-      <category id="102">Бегонии</category>
-      <category id="103">Стрептокарпусы</category>
-      <category id="104">Строманта</category>
+      <category id="101">Салат</category>
     </categories>
     <offers>
       <offer id="1" available="true">
