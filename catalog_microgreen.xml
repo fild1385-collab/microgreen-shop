@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-05 18:56:44">
+<yml_catalog date="2026-05-06 12:50:35">
   <shop>
     <name>Микрозелень</name>
     <company>Микрозелень</company>
@@ -9,22 +9,26 @@
       <currency id="UAH" rate="1"/>
     </currencies>
     <categories>
+      <category id="100">Без категории</category>
       <category id="1001473">Микрозелень</category>
+      <category id="101">Новая</category>
+      <category id="102">Новая 1</category>
+      <category id="103">Новая 2</category>
     </categories>
     <offers>
       <offer id="1" available="true">
         <url>https://local.shop/product/1</url>
-        <priceuah>55.00</priceuah>
+        <priceuah>100.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/SR75dRR1/Amarant-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/SR75dRR1/Amarant-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Амарант</name>
         <vendorCode>AMA-001</vendorCode>
         <description><![CDATA[]]></description>
       </offer>
       <offer id="2" available="true">
         <url>https://local.shop/product/2</url>
-        <priceuah>50.00</priceuah>
+        <priceuah>200.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
         <picture>🌿</picture>
@@ -34,20 +38,20 @@
       </offer>
       <offer id="3" available="true">
         <url>https://local.shop/product/3</url>
-        <priceuah>60.00</priceuah>
+        <priceuah>300.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/ncqc8GjW/Brokkoli-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/ncqc8GjW/Brokkoli-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Брокколи</name>
         <vendorCode>BROC-001</vendorCode>
         <description><![CDATA[]]></description>
       </offer>
       <offer id="4" available="true">
         <url>https://local.shop/product/4</url>
-        <priceuah>45.00</priceuah>
+        <priceuah>400.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/TwpVxwX4/Burak-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/TwpVxwX4/Burak-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Буряк</name>
         <vendorCode>BET-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -57,7 +61,7 @@
         <priceuah>50.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/TYnY8JLF/Goroh-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/TYnY8JLF/Goroh-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Горох</name>
         <vendorCode>PEA-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -67,7 +71,7 @@
         <priceuah>40.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/Ghvh0x8N/Gorcica-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/Ghvh0x8N/Gorcica-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Горчица</name>
         <vendorCode>MUS-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -77,7 +81,7 @@
         <priceuah>45.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/tCFC0NnG/Kinza-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/tCFC0NnG/Kinza-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Кинза</name>
         <vendorCode>COR-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -87,7 +91,7 @@
         <priceuah>45.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/7YSYvnJy/Kress-salat-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/7YSYvnJy/Kress-salat-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Кресс-салат</name>
         <vendorCode>CRESS-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -97,7 +101,7 @@
         <priceuah>40.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/rF5F6NRk/Len-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/rF5F6NRk/Len-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Лен</name>
         <vendorCode>LIN-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -107,7 +111,7 @@
         <priceuah>35.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/vmCZFqhV/Cibula-Cernuska-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/vmCZFqhV/Cibula-Cernuska-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Лук</name>
         <vendorCode>ONI-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -117,7 +121,7 @@
         <priceuah>40.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/15D5xrVP/Lucerna-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/15D5xrVP/Lucerna-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Люцерна</name>
         <vendorCode>ALF-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -127,7 +131,7 @@
         <priceuah>35.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/nrxqD1Ds/Oves-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/nrxqD1Ds/Oves-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Овес</name>
         <vendorCode>OAT-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -137,7 +141,7 @@
         <priceuah>45.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/8PLP8mf1/Pazitnik-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/8PLP8mf1/Pazitnik-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Пажитник</name>
         <vendorCode>FEN-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -157,7 +161,7 @@
         <priceuah>55.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/Qt1pCzHJ/Podsolnuh-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/Qt1pCzHJ/Podsolnuh-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Подсолнух</name>
         <vendorCode>SUN-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -167,7 +171,7 @@
         <priceuah>35.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/c4f4qBt1/Psenica-Vitgrass-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/c4f4qBt1/Psenica-Vitgrass-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Пшеница(витграсс)</name>
         <vendorCode>WHE-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -177,7 +181,7 @@
         <priceuah>50.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/nrxqD1Dj/Rediska-Red-Coral-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/nrxqD1Dj/Rediska-Red-Coral-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Редиска Red Coral</name>
         <vendorCode>REDC-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -197,7 +201,7 @@
         <priceuah>50.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/0272g0Kk/Rediska-Sango-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/0272g0Kk/Rediska-Sango-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Редиска Санго</name>
         <vendorCode>SAN-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -207,7 +211,7 @@
         <priceuah>50.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/LsG8KCDf/Rukkola-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/LsG8KCDf/Rukkola-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Руккола</name>
         <vendorCode>RU-001</vendorCode>
         <description><![CDATA[]]></description>
@@ -237,7 +241,7 @@
         <priceuah>40.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://i.postimg.cc/zXTXmFHG/Ukrop-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505</picture>
+        <picture>https://i.postimg.cc/zXTXmFHG/Ukrop-WEBP.webp?t=20260503&amp;t=20260503&amp;t=20260505&amp;t=20260506</picture>
         <name>Укроп</name>
         <vendorCode>DIL-001</vendorCode>
         <description><![CDATA[]]></description>
