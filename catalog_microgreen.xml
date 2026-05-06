@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-06 13:46:16">
+<yml_catalog date="2026-05-06 13:48:18">
   <shop>
     <name>Микрозелень</name>
     <company>Микрозелень</company>
@@ -31,7 +31,7 @@
         <priceuah>600.00</priceuah>
         <currencyId>UAH</currencyId>
         <categoryId>1001473</categoryId>
-        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgKel6oFLbdsHuVkviD1dnmWmcAi1s96sASSgSsqtPJdVAQEgVxQTYWU&amp;s</picture>
+        <picture>https://fermershop.com.ua/image/catalog/blog/10.jpg</picture>
         <name>Базилик фиолетовый</name>
         <vendorCode>BAS-001</vendorCode>
         <description><![CDATA[]]></description>
