@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-12 08:29:55">
+<yml_catalog date="2026-05-12 08:30:16">
   <shop>
     <name>Микрозелень</name>
     <company>Микрозелень</company>
@@ -268,7 +268,7 @@
         <shopEmoji>🌱</shopEmoji>
         <shopSlogan></shopSlogan>
         <theme>green</theme>
-        <categoryView>tabs</categoryView>
+        <categoryView>dropdown</categoryView>
         <showSwitchBtn>false</showSwitchBtn>
         <switchBtnText>🌐 Полная версия</switchBtnText>
         <switchBtnLink></switchBtnLink>
